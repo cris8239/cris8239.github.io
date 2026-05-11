@@ -15,4 +15,4 @@ Adopt-a-Fish:
 Adventure Game (2026 Midterm):
 **https://github.com/cris8239/cris8239.github.io/releases/tag/application**
 
-_(Each release features preview images under above source code)_
+*(Each release features preview images under above source code)*
