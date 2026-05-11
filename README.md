@@ -16,3 +16,5 @@ https://github.com/cris8239/cris8239.github.io/releases/tag/fish-sim
 https://github.com/cris8239/cris8239.github.io/releases/tag/application
 
 *(Each release features preview images above source code)*
+
+<img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/9a5dcfb5-f700-475f-ae8c-e9880f02c178" />
