@@ -4,5 +4,5 @@ My small portfolio from my Junior year of College. Not perfect but trying to lea
 # Current Application releases:
 
 Alphanumeric Characters and Loops
-** https://github.com/cris8239/cris8239.github.io/releases/tag/rectangle-renderer **
+**https://github.com/cris8239/cris8239.github.io/releases/tag/rectangle-renderer**
 
