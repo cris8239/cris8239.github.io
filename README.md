@@ -15,4 +15,4 @@ https://github.com/cris8239/cris8239.github.io/releases/tag/fish-sim
 **Adventure Game (2026 Midterm):**
 https://github.com/cris8239/cris8239.github.io/releases/tag/application
 
-*(Each release features preview images under above source code)*
+*(Each release features preview images above source code)*
