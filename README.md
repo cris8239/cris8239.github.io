@@ -3,6 +3,16 @@ My small portfolio from my Junior year of College. Not perfect but trying to lea
 
 # Current Application releases:
 
-Alphanumeric Characters and Loops
+Alphanumeric Characters and Loops:
 **https://github.com/cris8239/cris8239.github.io/releases/tag/rectangle-renderer**
 
+Game Map Simulation:
+**https://github.com/cris8239/cris8239.github.io/releases/tag/mock-map**
+
+Adopt-a-Fish:
+**https://github.com/cris8239/cris8239.github.io/releases/tag/fish-sim**
+
+Adventure Game (2026 Midterm):
+**https://github.com/cris8239/cris8239.github.io/releases/tag/application**
+
+(Each release features preview images under above source code)
